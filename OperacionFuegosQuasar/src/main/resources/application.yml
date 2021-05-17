@@ -1,0 +1,9 @@
+secretKey: "christianSecretKey"
+
+satellites:
+   nameSatellite1: "kenobi"
+   kenobiPosition: "-500,-200"
+   nameSatellite2: "skywalker"
+   skywalkerPosition: "100,-100"
+   nameSatellite3: "sato"
+   satoPosition: "500,100"
