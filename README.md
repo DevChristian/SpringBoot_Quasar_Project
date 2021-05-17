@@ -1,7 +1,8 @@
 # Operation Quasar Project
 Este proyecto fue realizado con las siguientes herramientas:
  - Java 11
- - Spock
+ - Gradle
+ - Spock (Groovy)
  - SpringBoot
  - SpringSecurity - JWT
  - Gradle
